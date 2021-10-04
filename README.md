@@ -45,7 +45,7 @@ To log found bugs, we request you file an issue in this repository.
 
 ![image](https://user-images.githubusercontent.com/77589922/135798144-68b7920c-890e-47cd-8a15-14ddbb432bbb.png)
 
-Once you have clicked the *Submit ne issue* button, send the issue link to the YieldBlox team.
+Once you have clicked the *Submit new issue* button, send the issue link to the YieldBlox team.
 The link can be sent in the #report-bugs channel of our Discord, the Beta channel of our Keybase, or can be emailed to support@script3.io.
 
 ## Bug Bounty Breakdown
