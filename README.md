@@ -1,1 +1,1 @@
-# yieldblox-beta
+# YieldBlox Testnet Beta
