@@ -29,18 +29,23 @@ To log found bugs, we request you file an issue in this repository.
 **How to file an issue:**
 - Log into GitHub (you must have a GitHub account to file an issue)
 - Select the *Issues* tab in the yieldblox-beta repository (this repository)
+  - ![image](https://user-images.githubusercontent.com/77589922/135797543-8ded5afe-06e1-4193-adfe-40e5483f37a5.png)
 - Select the green *New issue* button in the top right corner
+  - ![image](https://user-images.githubusercontent.com/77589922/135797578-d403a307-cea5-4b1a-91ef-53a020ca4e48.png)
 - Give the issue a descriptive but concise title
 - Describe the issue:
   - Describe the issue in detail
   - Screenshots are great! Use them when applicable 
   - Include your expected result and actual result
   - Use links to our docs when applicable
-  - Apply an applicable label to the issue: protocol, frontend/UI, or misc.
+  - Apply a "bug" label to the issue
+  - Apply other applicable labels to the issue: protocol, frontend, or misc.
   - A mod will apply a filter to the repository
+  - Example:
 
+![image](https://user-images.githubusercontent.com/77589922/135798144-68b7920c-890e-47cd-8a15-14ddbb432bbb.png)
 
-Once you have clicked the *Submit* button, send the issue link to the YieldBlox team.
+Once you have clicked the *Submit ne issue* button, send the issue link to the YieldBlox team.
 The link can be sent in the #report-bugs channel of our Discord, the Beta channel of our Keybase, or can be emailed to support@script3.io.
 
 ## Bug Bounty Breakdown
