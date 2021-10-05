@@ -25,6 +25,8 @@ We hope everything goes perfectly for the YieldBlox Testnet Beta, but we underst
 
 To log found bugs, we request you file an issue in this repository.
 
+### **PLEASE READ THROUGH THE OPEN ISSUES BEFORE FILING A NEW ONE, SO THERE ARE NOT ANY DUPLICATES.**
+
 
 **How to file an issue:**
 - Log into GitHub (you must have a GitHub account to file an issue)
