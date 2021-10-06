@@ -40,9 +40,10 @@ To log found bugs, we request you file an issue in this repository.
   - Screenshots are great! Use them when applicable 
   - Include your expected result and actual result
   - Use links to our docs when applicable
-  - Apply a "bug" label to the issue
-  - Apply other applicable labels to the issue: protocol, frontend, or misc.
-  - A mod will apply a filter to the repository
+  - We will apply a "bug" label to the issue
+  - We will apply other applicable labels to the issue: protocol, frontend, or misc.
+
+
   - Example:
 
 ![image](https://user-images.githubusercontent.com/77589922/135798144-68b7920c-890e-47cd-8a15-14ddbb432bbb.png)
