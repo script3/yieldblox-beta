@@ -50,7 +50,7 @@ To log found bugs, we request you file an issue in this repository.
 
 ## Bug Bounty Breakdown
 
-During the YieldBlox Testnet Beta, users will receieve YBX rewards for the bugs the find. Though, not all bugs are treated equal.
+During the YieldBlox Testnet Beta, users will receive YBX rewards for the bugs the find. Though, not all bugs are treated equal.
 The YieldBlox team will determine how detrimental a found bug is to YieldBlox. A breakdown of the expected YBX rewards for bugs found can be seen below:
 
 | Bug Threat Level      | Expected YBX Reward |
